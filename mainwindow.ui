@@ -44,27 +44,27 @@
     <property name="usesScrollButtons">
      <bool>false</bool>
     </property>
-    <widget class="QWidget" name="tab_statistics">
+    <widget class="QWidget" name="statistics_tab">
      <attribute name="title">
       <string>厚度统计分析</string>
      </attribute>
     </widget>
-    <widget class="QWidget" name="tab_system_control">
+    <widget class="QWidget" name="control_tab">
      <attribute name="title">
       <string>系统控制</string>
      </attribute>
     </widget>
-    <widget class="QWidget" name="tab_alert_and_test">
+    <widget class="QWidget" name="alert_test_tab">
      <attribute name="title">
       <string>报警和测试</string>
      </attribute>
     </widget>
-    <widget class="QWidget" name="tab_parameter">
+    <widget class="QWidget" name="parameter_tab">
      <attribute name="title">
       <string>校正参数</string>
      </attribute>
     </widget>
-    <widget class="QWidget" name="tab_metal_table">
+    <widget class="QWidget" name="metal_table_tab">
      <attribute name="title">
       <string>合金表</string>
      </attribute>
@@ -77,7 +77,7 @@
      <x>0</x>
      <y>0</y>
      <width>1440</width>
-     <height>22</height>
+     <height>37</height>
     </rect>
    </property>
   </widget>

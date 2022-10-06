@@ -10,13 +10,16 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    metaltableview.cpp
 
 HEADERS += \
-    mainwindow.h
+    mainwindow.h \
+    metaltableview.h
 
 FORMS += \
-    mainwindow.ui
+    mainwindow.ui \
+    metaltableview.ui
 
 TRANSLATIONS += \
     ruitai_zh_CN.ts
