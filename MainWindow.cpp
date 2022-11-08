@@ -1,8 +1,8 @@
 #include <QVBoxLayout>
 
-#include "mainwindow.h"
-#include "metaltableview.h"
-#include "adjustparamview.h""
+#include "MainWindow.h"
+#include "MetalTableView.h"
+#include "AdjustParamView.h""
 #include "ui_mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)

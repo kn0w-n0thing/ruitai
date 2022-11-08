@@ -1,6 +1,6 @@
 #include <QStandardItemModel>
 
-#include "adjustparamview.h"
+#include "AdjustParamView.h"
 #include "ui_adjustparamview.h"
 
 AdjustParamView::AdjustParamView(QWidget *parent) :

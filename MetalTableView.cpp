@@ -1,6 +1,6 @@
 #include <QStandardItemModel>
 
-#include "metaltableview.h"
+#include "MetalTableView.h"
 #include "ui_metaltableview.h"
 
 MetalTableView::MetalTableView(QWidget *parent) :
